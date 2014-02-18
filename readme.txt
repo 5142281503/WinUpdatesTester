@@ -1,0 +1,1 @@
+C++ code showing how to programmatically interface with Windows updates, IID_IAutomaticUpdates.
